@@ -1,4 +1,7 @@
-## Timeline Builder
+## History of Machine Learning in the 1950s - 2020s Era
+Made by Amazing Grace O. Cabiles from Section 3B-3IS2
+
+<!-- ## Timeline Builder
 
 Use Timeline.js to build a timeline! With thanks to the Knight Lab at [NorthWestern University](https://timeline.knightlab.com/).
 
@@ -17,4 +20,4 @@ View this example [timeline](https://digital-humanities-toolkit.github.io/timeli
 
 ![timeline sample](timeline-example.png)
 
-
+ -->
