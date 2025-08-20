@@ -2,12 +2,12 @@
 	"title": {
 		"media": {
 			"url": "img/intro.png",
-			"caption": "Machine Learning Visual Graph from Wordstream",
+			"caption": "Machine Learning Visual Graph",
 			"credit": "Wordstream: <a href='https://www.wordstream.com/blog/ws/2017/07/28/machine-learning-applications'>click to go to source</a>"
 		},
 		"text": {
-			"headline": "History of Machine Learning in a Specific Era<br/> 1950s - 2020s",
-			"text": "A Short History of Machine Learning from Beginning to the 21st Century."
+			"headline": "History of Machine Learning in a Specific Era (1950s - 2020s)",
+			"text": "<i>A Short History of Machine Learning from Beginning to the 21st Century.</i>"
 		}
 	},
 	"events": [
@@ -23,8 +23,8 @@
 				"year": "1950"
 			},
 			"text": {
-				"headline": "The Famous “Turing Test”",
-				"text": "Alan Turing created the essay titled “Computing Machinery and Intelligence”, this introduced the Turing Test to ask “Can machines think?”. The purpose was to test the intelligence of machines, this is carried out to see if a machine’s behavior is indistinguishable from a human’s in a text-based conversation."
+				"headline": "“Turing Test”",
+				"text": "Alan Turing created the essay titled “Computing Machinery and Intelligence”, this <i>introduced the</i><b> Turing Test </b><i>to ask “Can machines think?”.</i> The purpose was to test the intelligence of machines, this is carried out to see if a machine’s behavior is indistinguishable from a human’s in a text-based conversation."
 			}
 		},
 		{
@@ -37,8 +37,8 @@
 				"year": "1951"
 			},
 			"text": {
-				"headline": "Marvin Minsky's “SNARC”",
-				"text": "Stochastic Neural Analog Reinforcement Calculator (SNARC) is an early neural network simulation machine designed by Marvin Minsky. It was one of the first attempts in mimicking how the human brain learn, with the use of a network of 40 simulated neurons connected with randomly changing strengths. It is considered one of the first pioneering attempts at the field of Artificial Intelligence."
+				"headline": "“SNARC”",
+				"text": "<i><b>Stochastic Neural Analog Reinforcement Calculator (SNARC)</i></b> is an early neural network simulation machine designed by Marvin Minsky. It was one of the first attempts in mimicking how the human brain learn, with the use of a network of 40 simulated neurons connected with randomly changing strengths. It is <i><b>considered one of the first pioneering attempts at the field of Artificial Intelligence.</i></b>"
 			}
 		},
 		{
@@ -52,7 +52,7 @@
 			},
 			"text": {
 				"headline": "Samuel Checkers",
-				"text": "This is considered one of the world’s first successful machine learning program. It improved by playing against itself until the mid-1970s, where the program achieved sufficient skill to challenge an amateur. Arthur Samuel’s work introduced the concept of Machine Learning."
+				"text": "This is considered one of the world’s first successful machine learning program. It improved by playing against itself until the mid-1970s, where the program achieved sufficient skill to challenge an amateur. Arthur Samuel’s work <i><b>introduced the concept of Machine Learning.</i></b>"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 			},
 			"text": {
 				"headline": "Artificial Intelligence",
-				"text": "John McCarthy organizes the Dartmouth Conference where the term was coined. The researchers believe that machines are capable of thinking and learning like humans."
+				"text": "John McCarthy organizes the Dartmouth Conference where the term was coined. The researchers believe that <i><b>machines are capable of thinking and learning like humans.</i></b>"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 			},
 			"text": {
 				"headline": "Rosenblatt’s Perceptron",
-				"text": "The “Perceptron” is a precursor to artificial neural networks pattern recognition. Researcher were thrilled with the idea that computers could learn basic tasks. However, its drawbacks would cause AI to face early failures."
+				"text": "The “Perceptron” is a precursor to artificial neural networks pattern recognition. Researcher were thrilled with the idea that computers could learn basic tasks. <i><b>However, its drawbacks would cause AI to face early failures.</i></b>"
 			}
 		},
 		{
@@ -93,8 +93,8 @@
 				"year": "1966"
 			},
 			"text": {
-				"headline": "“ELIZA” the Chatbot",
-				"text": "Joseph Weizenbaum creates “ELIZA”, a program that simulates a conversation with a psychotherapist. It worked by pattern-matching user input and responding with scripted lines."
+				"headline": "“ELIZA”",
+				"text": "Joseph Weizenbaum creates “ELIZA”, a program that <i><b>simulates a conversation with a psychotherapist.</i></b> It worked by pattern-matching user input and responding with scripted lines."
 			}
 		},
 		{
@@ -108,7 +108,7 @@
 			},
 			"text": {
 				"headline": "AI Winter",
-				"text": "AI Winter is a period of reduced research interest and funding in AI. Progress slowed as AI programs failed to meet high expectations and many consider AI as an overhyped idea at this point."
+				"text": "AI Winter is a period of reduced research interest and funding in AI. Progress slowed as AI programs failed to meet high expectations and <i><b>many consider AI as an overhyped idea at this point.</i></b>"
 			}
 		},
 		{
@@ -122,7 +122,7 @@
 			},
 			"text": {
 				"headline": "“Expert” Systems",
-				"text": "AI returned to popularity with Expert Systems, programs that stored human expert knowledge aimed to solve problems. They were used in industries like medicine and business for decision-making."
+				"text": "AI returned to popularity with Expert Systems, programs that <i><b>stored human expert knowledge</i></b> aimed to solve problems. They were used in industries like medicine and business for decision-making."
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 			},
 			"text": {
 				"headline": "Backpropagation",
-				"text": "Geoffrey Hinton and others popularized the backpropagation algorithm, which made it possible to train multi-layer neural networks. It set the stage for modern deep learning."
+				"text": "Geoffrey Hinton and others popularized the “Backpropagation Algorithm”, which made it possible to train multi-layer neural networks. <i><b>It set the stage for modern deep learning.</i></b>"
 			}
 		},
 		{
@@ -150,21 +150,21 @@
 			},
 			"text": {
 				"headline": "Deep Blue",
-				"text": "Deep Blue is a Chess Playing Computer made by IBM. IBM’s Deep Blue defeated world chess champion Garry Kasparov in 1996."
+				"text": "Deep Blue is a chess playing computer made by IBM. IBM’s Deep Blue <i><b>defeated world chess champion Garry Kasparov</i></b> in 1996."
 			}
 		},
 		{
 			"media": {
 				"url": "img/DeepLearning.jpg",
 				"caption": "Turing Award Recipient Geoffrey Hinton",
-				"credit": "Association of Computing Machinery::<a href=\"https://awards.acm.org/award_winners/hinton_4791679\">click to go to source</a><br>"
+				"credit": "Association of Computing Machinery: <a href=\"https://awards.acm.org/award_winners/hinton_4791679\">click to go to source</a><br>"
 			},
 			"start_date": {
 				"year": "2006"
 			},
 			"text": {
 				"headline": "Deep Learning Revival",
-				"text": "Geoffrey Hinton reintroduces neural networks, demonstrating that they could work well with big data and GPUs. AI systems could recognize speech, images, and text far better than before. This eventually sparked the deep learning revolution."
+				"text": "Geoffrey Hinton reintroduces neural networks, demonstrating that they could work well with big data and GPUs. AI systems could recognize speech, images, and text far better than before. This eventually <i><b>sparked the deep learning revolution.<i></b>"
 			}
 		},
 		{
@@ -178,7 +178,7 @@
 			},
 			"text": {
 				"headline": "“Waymo”",
-				"text": "Google develops a self-driving car which would later be a ride hailing service called Waymo. Using sensors, cameras, and machine learning, the cars could drive themselves in limited settings. This demonstrated AI’s real-world potential for transportation."
+				"text": "Google develops a <i><b>self-driving car</i></b> which would later be a ride hailing service called Waymo. Using sensors, cameras, and machine learning, the cars could drive themselves in limited settings. This demonstrated AI’s real-world potential for transportation."
 			}
 		},
 		{
@@ -192,7 +192,7 @@
 			},
 			"text": {
 				"headline": "Winning “Jeopardy!”",
-				"text": "IBM’s Watson defeats human champions on the quiz show Jeopardy!. It used natural language processing and vast knowledge databases to answer complex questions proving that machines could handle human language effectively."
+				"text": "IBM’s Watson <i><b>defeats human champions on the quiz show “Jeopardy!”.</i></b> It used natural language processing and vast knowledge databases to answer complex questions proving that machines could handle human language effectively."
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 			},
 			"text": {
 				"headline": "“AlexNet”",
-				"text": "AlexNet is a deep neural network for image recognition that won the <i>ImageNet</i> competition. It could classify images far better than previous systems, with the use of deep learning and GPU training. This event proved deep learning’s dominance in AI research."
+				"text": "AlexNet is a deep neural network for image recognition that <i><b>won the ImageNet competition.</i></b> It could classify images far better than previous systems, with the use of deep learning and GPU training. This event proved deep learning’s dominance in AI research."
 			}
 		},
 		{
@@ -220,7 +220,7 @@
 			},
 			"text": {
 				"headline": "“Alexa”",
-				"text": "Amazon releases Alexa, a voice-activated AI assistant. It could understand speech, answer questions, and control smart home devices. Voice AI assistants soon became common in households worldwide."
+				"text": "Amazon releases Alexa, a <i><b>voice-activated AI assistant.</i></b> It could understand speech, answer questions, and control smart home devices. Voice AI assistants soon became common in households worldwide."
 			}
 		},
 		{
@@ -234,7 +234,7 @@
 			},
 			"text": {
 				"headline": "“AlphaGo”",
-				"text": "Google DeepMind’s AlphaGo defeats world champion Lee Sedol in the complex game of <i>Go</i>. Go was thought too difficult for AI because of its huge number of possibilities. This victory proved the strength of reinforcement learning and deep neural networks."
+				"text": "Google DeepMind’s “AlphaGo” <i><b>defeats world champion Lee Sedol</i></b> in the <i><b>game of Go.</i></b> Go was thought too difficult for AI because of its huge number of possibilities. This victory proved the strength of reinforcement learning and deep neural networks."
 			}
 		},
 		{
@@ -248,7 +248,7 @@
 			},
 			"text": {
 				"headline": "“GPT-2”",
-				"text": "OpenAI releases GPT-2, a language model that could generate human-like text. This demonstrated the rapid progress of natural language processing."
+				"text": "OpenAI releases GPT-2, a <i><b>language model that could generate human-like text.</i></b> This demonstrated the rapid progress of natural language processing."
 			}
 		},
 		{
@@ -264,7 +264,7 @@
 			},
 			"text": {
 				"headline": "“GPT-3”",
-				"text": "OpenAI introduces GPT-3, with 175 billion parameters, capable of writing essays, code, and conversations almost indistinguishable from humans. GPT-3 became a major milestone in bringing AI to the mainstream."
+				"text": "OpenAI introduces GPT-3, with 175 billion parameters, capable of writing essays, code, and conversations almost indistinguishable from humans. GPT-3 <i><b>became a major milestone in bringing AI to the mainstream.</i></b>"
 			}
 		}
 	]
