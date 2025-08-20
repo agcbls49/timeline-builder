@@ -1,142 +1,156 @@
 {
 	"title": {
 		"media": {
-			"url": "//www.flickr.com/photos/tm_10001/2310475988/",
-			"caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
-			"credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+			"url": "img/intro.png",
+			"caption": "Machine Learning Visual Graph from Wordstream.",
+			"credit": "Wordstream: <a href='https://www.wordstream.com/blog/ws/2017/07/28/machine-learning-applications'>click to go to source</a>"
 		},
 		"text": {
-			"headline": "Whitney Houston<br/> 1963 - 2012",
-			"text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+			"headline": "History of Machine Learning in a Specific Era<br/> 1950s - 2020s",
+			"text": "<p>A Short History of Machine Learning from Beginning to the 21st Century.</p>"
 		}
 	},
 	"events": [
 		{
 			"media": {
-				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
-				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
-				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+				"url": "img/Alan_turing_header.jpg",
+				"caption": "Alan Turing",
+				"credit": "Wikipedia: <a href='https://en.wikipedia.org/wiki/Alan_Turing'>click to go to source</a><br/>"
 			},
 			"start_date": {
-				"month": "8",
-				"day": "9",
-				"year": "1963"
+				"month": "10",
+				"day": null,
+				"year": "1950"
 			},
 			"text": {
-				"headline": "A Musical Heritage",
-				"text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+				"headline": "The Famous “Turing Test”",
+				"text": "<p>Alan Turing created the essay titled “Computing Machinery and Intelligence”, this introduced the Turing Test to ask “Can machines think?”. The purpose was to test the intelligence of machines, this is carried out to see if a machine’s behavior is indistinguishable from a human’s in a text-based conversation.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/fSrO91XO1Ck",
-				"caption": "",
-				"credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+				"url": "img/SNARC.jpg",
+				"caption": "SNARC Machine",
+				"credit": "Medium Article: <a href=\"https://zahid-parvez.medium.com/history-of-ai-the-first-neural-network-computer-marvin-minsky-231c8bd58409\">click to go to source</a><br>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1951"
 			},
 			"text": {
-				"headline": "First Recording",
-				"text": "At the age of 15 Houston was featured on Michael Zager's song, Life's a Party."
+				"headline": "Marvin Minsky's “SNARC”",
+				"text": "Stochastic Neural Analog Reinforcement Calculator (SNARC) is an early neural network simulation machine designed by Marvin Minsky. It was one of the first attempts in mimicking how the human brain learn, with the use of a network of 40 simulated neurons connected with randomly changing strengths. It is considered one of the first pioneering attempts at the field of Artificial Intelligence."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/_gvJCCZzmro",
-				"caption": "A young poised Whitney Houston in an interview with EbonyJet.",
-				"credit": "EbonyJet"
+				"url": "img/Samuel_checkers.jpg",
+				"caption": "“The Father of Machine Learning”, Arthur Samuel playing checkers.",
+				"credit": "IBM: <a href=\"https://www.ibm.com/history/early-games\">click to go to source</a><br>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1952"
 			},
 			"text": {
-				"headline": "The Early Years",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "Samuel Checkers",
+				"text": "This is considered one of the world’s first successful machine learning program. It improved by playing against itself until the mid-1970s, where the program achieved sufficient skill to challenge an amateur. Arthur Samuel’s work introduced the concept of Machine Learning."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/H7_sqdkaAfo",
-				"caption": "I'm Every Women as performed by Whitney Houston.",
-				"credit": "Arista Records"
+				"url": "img/AI_darthmouth.png",
+				"caption": "List of Attendees at the Conference.",
+				"credit": "Darthmouth: <a href=\"https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth\">click to go to source</a><br>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1956"
 			},
 			"text": {
-				"headline": "Early Album Credits",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "Artificial Intelligence",
+				"text": "John McCarthy organizes the Dartmouth Conference where the term was coined. The researchers believe that machines are capable of thinking and learning like humans."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/A4jGzNm2yPI",
-				"caption": "Whitney Houston and Clive Davis discussing her discovery and her eponymous first album.",
-				"credit": "Sony Music Entertainment"
+				"url": "img/Rosenblatt.jpg",
+				"caption": "Frank Rosenblatt working on the “electronic profile analyzing computer” – a precursor to the perceptron.",
+				"credit": "Cornell: <a href=\"https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon\">click to go to source</a><br>"
 			},
 			"start_date": {
-				"year": "1983"
+				"year": "1957"
 			},
 			"text": {
-				"headline": "Signed",
-				"text": "Houston is signed to Arista Records after exec Clive Davis sees her performing on stage with her mother in New York."
+				"headline": "Rosenblatt’s Perceptron",
+				"text": "The “Perceptron” is a precursor to artificial neural networks pattern recognition. Researcher were thrilled with the idea that computers could learn basic tasks. However, its drawbacks would cause AI to face early failures."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/m3-hY-hlhBg",
-				"caption": "The 'How Will I Know' video showcases the youthful energy that boosted Houston to stardom.",
-				"credit": "Arista Records Inc."
+				"url": "img/ELIZA_conversation.png",
+				"caption": "The first ever Chatbot.",
+				"credit": "Wikipedia: <a href=\"https://en.wikipedia.org/wiki/ELIZA\">click to go to source</a><br>"
 			},
 			"start_date": {
-				"year": "1985"
+				"year": "1966"
 			},
 			"text": {
-				"headline": "Debut",
-				"text": "Whitney Houston's self titled first release sold over 12 million copies in the U.S. and included the hit singles 'How Will I Know,' 'You Give Good Love,' 'Saving All My Love For You' and 'Greatest Love of All.'"
+				"headline": "“ELIZA” the Chatbot",
+				"text": "Joseph Weizenbaum creates “ELIZA”, a program that simulates a conversation with a psychotherapist. It worked by pattern-matching user input and responding with scripted lines."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/v0XuiMX1XHg",
-				"caption": "Dionne Warwick gleefully announces cousin, Whitney Houston, the winner of the Best Female Pop Vocal Performance for the song Saving All My Love.",
-				"credit": "<a href='http://grammy.org'>The Recording Academy</a>"
+				"url": "img/AI_winter.png",
+				"caption": "Timeline of the AI winters.",
+				"credit": "Research Gate: <a href='https://www.researchgate.net/figure/Timeline-of-the-AI-winters_fig1_333039347'>click to go to source</a><br/>"
+			},
+			"start_date": {
+				"year": "1970"
+			},
+			"text": {
+				"headline": "AI Winter",
+				"text": "AI Winter is a period of reduced research interest and funding in AI. Progress slowed as AI programs failed to meet high expectations and many consider AI as an overhyped idea at this point."
+			}
+		},
+		{
+			"media": {
+				"url": "img/Expert_systems.png",
+				"caption": "How Expert Systems Work",
+				"credit": "Jaro Education: :<a href=\"https://www.jaroeducation.com/blog/what-are-expert-systems-in/\">click to go to source</a><br>"
+			},
+			"start_date": {
+				"year": "1980"
+			},
+			"text": {
+				"headline": "“Expert” Systems",
+				"text": "AI returned to popularity with Expert Systems, programs that stored human expert knowledge aimed to solve problems. They were used in industries like medicine and business for decision-making."
+			}
+		},
+		{
+			"media": {
+				"url": "img/Backpropagation.png",
+				"caption": "Visual of Backpropagation",
+				"credit": "Geeks For Geeks: <a href='https://www.geeksforgeeks.org/machine-learning/backpropagation-in-neural-network/'>click to go to source</a><br/>"
 			},
 			"start_date": {
 				"year": "1986"
 			},
 			"text": {
-				"headline": "'The Grammys'",
-				"text": "In 1986 Houston won her first Grammy for the song Saving All My Love. In total she has won six Grammys, the last of which she won in 1999 for It's Not Right But It's Okay."
+				"headline": "Backpropagation",
+				"text": "Geoffrey Hinton and others popularized the backpropagation algorithm, which made it possible to train multi-layer neural networks. It set the stage for modern deep learning."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/eH3giaIzONA",
-				"caption": "I Wanna Dance With Somebody",
-				"credit": "Arista Records Inc."
+				"url": "img/DeepBlue.jpg",
+				"caption": "Chess champion “Garry Kasparov” playing against Deep Blue",
+				"credit": "IBM: <a href=\"https://www.ibm.com/history/deep-blue\">click to go to source</a><br>"
 			},
 			"start_date": {
-				"year": "1987"
+				"year": "1997"
 			},
 			"text": {
-				"headline": "'Whitney'",
-				"text": "Multiplatinum second album sells more than 20 million copies worldwide. With 'Whitney', Houston became the first female artist to produce four number 1 singles on one album including \"I Wanna Dance With Somebody,' 'Didn't We Almost Have It All,' 'So Emotional' and 'Where Do Broken Hearts Go.'"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/96aAx0kxVSA",
-				"caption": "\"One Moment In Time\" - Theme song to the 1988 Seoul Olympics",
-				"credit": "Arista Records Inc."
-			},
-			"start_date": {
-				"year": "1988"
-			},
-			"text": {
-				"headline": "\"One Moment In Time\"",
-				"text": "The artist's fame continues to skyrocket as she records the theme song for the Seoul Olympics, 'One Moment In Time.'"
+				"headline": "Deep Blue",
+				"text": "Deep Blue is a Chess Playing Computer made by IBM. IBM’s Deep Blue defeated world chess champion Garry Kasparov in 1996."
 			}
 		},
 		{
@@ -146,25 +160,11 @@
 				"credit": ""
 			},
 			"start_date": {
-				"year": "1989"
+				"year": "2006"
 			},
 			"text": {
-				"headline": "Bobby Brown",
-				"text": "Houston and Brown first meet at the Soul Train Music Awards. In an interview with Rolling Stone Magazine, Houston admitted that it was not love at first sight. She turned down Brown's first marriage proposal but eventually fell in love with him."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/5Fa09teeaqs",
-				"caption": "CNN looks back at Houston's iconic performance of the national anthem at Superbowl XXV.",
-				"credit": "CNN"
-			},
-			"start_date": {
-				"year": "1991"
-			},
-			"text": {
-				"headline": "Super Bowl",
-				"text": "Houston's national anthem performance captures the hearts and minds of Americans ralllying behind soldiers in the Persian Guf War."
+				"headline": "Deep Learning Revival",
+				"text": "."
 			}
 		},
 		{
