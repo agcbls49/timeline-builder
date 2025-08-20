@@ -1,6 +1,8 @@
 ## History of Machine Learning in the 1950s - 2020s Era
 Made by Amazing Grace O. Cabiles from Section 3B-3IS2
 
+Website Link: https://agcbls49.github.io/timeline-builder/
+
 <!-- ## Timeline Builder
 
 Use Timeline.js to build a timeline! With thanks to the Knight Lab at [NorthWestern University](https://timeline.knightlab.com/).
