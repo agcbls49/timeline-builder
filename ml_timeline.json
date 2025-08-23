@@ -266,6 +266,17 @@
 				"headline": "“GPT-3”",
 				"text": "OpenAI introduces GPT-3, with 175 billion parameters, capable of writing essays, code, and conversations almost indistinguishable from humans. GPT-3 <i><b>became a major milestone in bringing AI to the mainstream.</i></b>"
 			}
+		},
+		{
+			"start_date": {
+				"month": "8",
+				"day": "23",
+				"year": "2025"
+			},
+			"text": {
+				"headline": "References",
+				"text": "Dartmouth. (2025). Artificial intelligence (AI) coined at Dartmouth. Dartmouth College.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth <br><br> IBM. (n.d.). The games that helped AI evolve. IBM. Retrieved August 21, 2025, from<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.ibm.com/history/early-games <br><br> Lefkowitz, M. (2019, September 25). Professor’s perceptron paved the way for AI – 60 years too soon. Cornell Chronicle.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon"
+			}
 		}
 	]
 }
